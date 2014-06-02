@@ -1,0 +1,1 @@
+A text file serverd by jetty - check the headers and it should have an Etag
