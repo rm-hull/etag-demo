@@ -67,3 +67,4 @@ jar file, and there is no calculate-etag dispatcher for input streams.
 8. I have had a look at this and _almost_ have a working version which
 involves rewinding BufferedInputStreams (it's not pretty, but it nearly works)
 
+9. Note: the code uses the published etags jar from clojars, which slightly differs from that on the ring-middleware-etags github page
