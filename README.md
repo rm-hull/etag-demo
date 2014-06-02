@@ -8,8 +8,7 @@ Ubuntu Linux 14.04 with JDK 8, Clojure 1.6, lein 2.3.4
 
         $ lein ring server
 
-2. Use firefox/curl/wget to navigate to `http://localhost:3000/etag/test-file.txt`
-- check that the Etag header is returned ok. 
+2. Use firefox/curl/wget to navigate to `http://localhost:3000/etag/test_file.txt` - check that the Etag header is returned ok. 
 
 3. CTRL-C the app
 
